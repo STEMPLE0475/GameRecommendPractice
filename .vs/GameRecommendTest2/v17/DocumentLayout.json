@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stemp\\source\\repos\\GameRecommendTest2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15FFD4E0-6B7B-4828-B0D9-A7654DC77DE2}|GameRecommendTest2.vcxproj|C:\\Users\\stemp\\source\\repos\\GameRecommendTest2\\GameRecommendTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15FFD4E0-6B7B-4828-B0D9-A7654DC77DE2}|GameRecommendTest2.vcxproj|solutionrelative:GameRecommendTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameRecommendTest2.cpp",
+              "DocumentMoniker": "C:\\Users\\stemp\\source\\repos\\GameRecommendTest2\\GameRecommendTest2.cpp",
+              "RelativeDocumentMoniker": "GameRecommendTest2.cpp",
+              "ToolTip": "C:\\Users\\stemp\\source\\repos\\GameRecommendTest2\\GameRecommendTest2.cpp",
+              "RelativeToolTip": "GameRecommendTest2.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAiwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T09:57:28.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
